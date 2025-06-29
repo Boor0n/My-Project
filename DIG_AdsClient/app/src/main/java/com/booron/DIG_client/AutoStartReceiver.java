@@ -1,4 +1,4 @@
-package com.booron.DIG_client; // Убедитесь, что здесь ваш ТОЧНЫЙ package name
+package com.booron.DIG_AdsClient; // Убедитесь, что здесь ваш ТОЧНЫЙ package name
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

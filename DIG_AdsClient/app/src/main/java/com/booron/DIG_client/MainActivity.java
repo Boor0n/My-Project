@@ -1,4 +1,4 @@
-package com.booron.DIG_client; // Ваш ТОЧНЫЙ package name
+package com.booron.DIG_AdsClient; // Ваш ТОЧНЫЙ package name
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
@@ -51,9 +51,9 @@ import okhttp3.Response;
 public class MainActivity extends AppCompatActivity {
 
     // Тег для логирования, удобно для фильтрации в Logcat
-    private static final String TAG = "BooronDijclient";
+    private static final String TAG = "DIG_AdsClient";
     // Имя файла для сохранения настроек (deviceId и IP-адрес)
-    private static final String PREFS_NAME = "BooronDijclientPrefs";
+    private static final String PREFS_NAME = "DIG_AdsClientPrefs";
     private static final String KEY_DEVICE_ID = "device_id";
     private static final String KEY_SERVER_IP = "server_ip"; // Ключ для сохранения IP
 

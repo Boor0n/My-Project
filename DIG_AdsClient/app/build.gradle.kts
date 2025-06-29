@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.booron.DIG_client"
+    namespace = "com.booron.DIG_AdsClient"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.booron.DIG_client"
+        applicationId = "com.booron.DIG_AdsClient"
         minSdk = 23
         targetSdk = 34
         versionCode = 1

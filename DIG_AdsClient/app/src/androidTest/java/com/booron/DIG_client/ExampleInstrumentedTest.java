@@ -1,4 +1,4 @@
-package com.booron.DIG_client;
+package com.booron.DIG_AdsClient;
 
 import android.content.Context;
 

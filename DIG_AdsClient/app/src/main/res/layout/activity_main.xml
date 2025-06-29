@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context="com.booron.DIG_client.MainActivity">
+    tools:context="com.booron.DIG_AdsClient.MainActivity">
 
     <LinearLayout
         android:id="@+id/ipAddressLayout"
@@ -82,7 +82,7 @@
             android:id="@+id/registrationKeyInput"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:hint="Ключ"
+            android:hint="Key"
             android:inputType="textCapCharacters"
             android:imeOptions="actionDone"
             android:singleLine="true"

@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DIG_Client"
+rootProject.name = "DIG_AdsClient"
 include(":app")
